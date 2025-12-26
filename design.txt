@@ -1,0 +1,32 @@
+Updated the CSS variables to use white as the primary color
+Changed the sidebar background from a dark gradient to white (#ffffff)
+Updated text colors in the sidebar to ensure readability against the white background
+Added a border to the sidebar to define it visually
+Changed the logout button style to match the white theme
+Updated the user profile section in the sidebar to use appropriate colors
+Made sure all other elements maintain good contrast against the white backgrounds
+fix folder path
+C:\xampp\htdocs\MonbelaHotel\admin\Guest
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\Add_guest.php
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\Change_Guest_Password.php
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\Delete_guest.php
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\Edit_Guest.php
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\Manage_guest.php
+C:\xampp\htdocs\MonbelaHotel\admin\Guest\View_guest.php
+C:\xampp\htdocs\MonbelaHotel\admin\images
+C:\xampp\htdocs\MonbelaHotel\admin\reservations
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\add_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\cancel_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\checkout_confirmation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\checkout_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\confirm_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\edit_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\manage_reservations.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\pending_reservations.php
+C:\xampp\htdocs\MonbelaHotel\admin\reservations\view_reservation.php
+C:\xampp\htdocs\MonbelaHotel\admin\room
+C:\xampp\htdocs\MonbelaHotel\admin\admin_dashboard.php
+C:\xampp\htdocs\MonbelaHotel\admin\admin_logout.php
+C:\xampp\htdocs\MonbelaHotel\admin\admin_register.php
+C:\xampp\htdocs\MonbelaHotel\admin\edit_admin.php
+C:\xampp\htdocs\MonbelaHotel\admin\manage_admins.php

@@ -1,0 +1,16 @@
+{
+    "name": "lourdian/monbela-hotel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lourdian\\MonbelaHotel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "enoozackie",
+            "email": "lourdianrentinoakol@gmail.com"
+        }
+    ],
+    "require": {}
+}
